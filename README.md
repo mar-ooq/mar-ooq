@@ -4,7 +4,7 @@ Currently I'm exploring Python and C#, focusing on building desktop applications
 Looking to improve my skills, learn something new and gain experience
 
 ### Technologies:
-- Python (Tkinker)
+- Python (Tkinter)
 - C# (WPF)
 
 Still learning, but always open to connect, collaborate or get a feedback.
