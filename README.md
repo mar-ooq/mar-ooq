@@ -1,10 +1,10 @@
-## Hi, I'm Marcel Błażejowski - an IT student learning software developer.
+# 👋 Hello! I'm Marcel Błażejowski
 
-Currently I'm exploring Python and C#, focusing on building desktop applications and automation tools.
-Looking to improve my skills, learn something new and gain experience
+I'm a junior backend developer working mainly with **C# (.NET/WPF)** and **Python**.  
+Currently focused on building my portfolio through practical projects.
 
-### Technologies:
-- Python (Tkinter)
-- C# (WPF)
+- 💻 Interested in real-world backend development  
+- 🧠 Learning through hands-on experience  
+- 📌 Working with SQL databases, including **SQLite**
 
-Still learning, but always open to connect, collaborate or get a feedback.
+I'm always up for projects that help me grow and solve real problems.
