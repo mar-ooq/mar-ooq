@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Marcel Błażejowski
 
-I'm a junior backend developer working mainly with **C# (.NET/WPF)** and **Python**.  
+I'm a junior backend developer working mainly with **C# (.NET)** and **Python**.  
 Currently focused on building my portfolio through practical projects.
 
 - 💻 Interested in real-world backend development  
